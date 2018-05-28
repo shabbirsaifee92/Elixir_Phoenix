@@ -1,6 +1,6 @@
 # Gencounter
 
-**TODO: Add description**
+This is a basic implementation of GenStage architecture. We have a single producer, single producer consumer and two consumers.
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/gencounter](https://hexdocs.pm/gencounter).
-
